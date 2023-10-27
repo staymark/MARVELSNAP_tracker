@@ -1,0 +1,204 @@
+index,bot,entry,match_result,cubes,cubes_total,deck,date,session,session_start,session_end
+1,No,Retreat -2,Retreat,-2,-2,Glenn Jones Mobius?,10/3/2023,1,9:50:00 PM,10:30:00 PM
+2,Yes ,Win 2,Win,2,0,Glenn Jones Mobius?,10/3/2023,1,9:50:00 PM,10:30:00 PM
+3,No,Loss -2,Loss,-2,-2,Glenn Jones Mobius?,10/3/2023,1,9:50:00 PM,10:30:00 PM
+4,No,Retreat -1,Retreat,-1,-3,Glenn Jones Mobius?,10/3/2023,1,9:50:00 PM,10:30:00 PM
+5,No,Loss -2,Loss,-2,-5,Glenn Jones Mobius?,10/3/2023,1,9:50:00 PM,10:30:00 PM
+6,No,Win 2,Win,2,-3,Glenn Jones Mobius?,10/3/2023,1,9:50:00 PM,10:30:00 PM
+7,Yes ,Win 2,Win,2,-1,Glenn Jones Mobius?,10/3/2023,1,9:50:00 PM,10:30:00 PM
+8,No,Retreat -1,Retreat,-1,-2,Glenn Jones Mobius?,10/3/2023,1,9:50:00 PM,10:30:00 PM
+9,No,Loss -2,Loss,-2,-4,Glenn Jones Mobius,10/3/2023,1,9:50:00 PM,10:30:00 PM
+10,Yes ,Win 4,Win,4,0,Glenn Jones SK No Mobius,10/4/2023,2,10:05:00 PM,11:05:00 PM
+11,No,Loss -4,Loss,-4,-4,Glenn Jones SK No Mobius,10/4/2023,2,10:05:00 PM,11:05:00 PM
+12,No,Win 2,Win,2,-2,Glenn Jones SK No Mobius,10/4/2023,2,10:05:00 PM,11:05:00 PM
+13,No,Retreat -1,Retreat,-1,-3,Glenn Jones SK No Mobius,10/4/2023,2,10:05:00 PM,11:05:00 PM
+14,Yes ,Win 2,Win,2,-1,Glenn Jones SK No Mobius,10/4/2023,2,10:05:00 PM,11:05:00 PM
+15,No,Win 4,Win,4,3,Glenn Jones SK No Mobius,10/4/2023,2,10:05:00 PM,11:05:00 PM
+16,No,Win 4,Win,4,7,Glenn Jones SK No Mobius,10/4/2023,2,10:05:00 PM,11:05:00 PM
+17,No,Retreat -1,Retreat,-1,6,Glenn Jones SK No Mobius,10/4/2023,2,10:05:00 PM,11:05:00 PM
+18,Yes ,Win 4,Win,4,10,Glenn Jones SK No Mobius,10/4/2023,2,10:05:00 PM,11:05:00 PM
+19,No,Retreat -1,Retreat,-1,9,Glenn Jones SK No Mobius,10/4/2023,2,10:05:00 PM,11:05:00 PM
+20,No,Win 8,Win,8,17,Glenn Jones SK No Mobius,10/4/2023,2,10:05:00 PM,11:05:00 PM
+21,No,Retreat -1,Retreat,-1,16,Glenn Jones SK No Mobius,10/4/2023,2,10:05:00 PM,11:05:00 PM
+22,Maybe,Win 4,Win,4,20,Glenn Jones SK No Mobius,10/4/2023,2,10:05:00 PM,11:05:00 PM
+23,No,Retreat -1,Retreat,-1,19,Glenn Jones SK No Mobius,10/4/2023,2,10:05:00 PM,11:05:00 PM
+24,No,Win 1,Win,1,20,Glenn Jones SK No Mobius,10/4/2023,2,10:05:00 PM,11:05:00 PM
+25,No,Retreat -1,Retreat,-1,19,Glenn Jones SK No Mobius,10/4/2023,2,10:05:00 PM,11:05:00 PM
+26,Yes ,Win 4,Win,4,23,Glenn Jones SK No Mobius,10/4/2023,2,10:05:00 PM,11:05:00 PM
+27,No,Retreat -1,Retreat,-1,22,Glenn Jones SK No Mobius,10/4/2023,2,10:05:00 PM,11:05:00 PM
+28,No,Win 1,Win,1,23,Glenn Jones SK No Mobius,10/4/2023,2,10:05:00 PM,11:05:00 PM
+29,No,Win 1,Win,1,24,Glenn Jones SK No Mobius,10/5/2023,3,9:50:00 PM,10:05:00 PM
+30,No,Retreat -1,Retreat,-1,23,Glenn Jones SK No Mobius,10/5/2023,3,9:50:00 PM,10:05:00 PM
+31,No,Win 2,Win,2,25,Glenn Jones SK No Mobius,10/5/2023,3,9:50:00 PM,10:05:00 PM
+32,No,Retreat -1,Retreat,-1,24,Glenn Jones SK No Mobius,10/5/2023,3,9:50:00 PM,10:05:00 PM
+33,No,Win 4,Win,4,28,Glenn Jones SK No Mobius,10/5/2023,3,9:50:00 PM,10:05:00 PM
+34,No,Retreat -1,Retreat,-1,27,Glenn Jones SK No Mobius,10/5/2023,3,9:50:00 PM,10:05:00 PM
+35,Yes ,Win 4,Win,4,31,Glenn Jones SK No Mobius,10/5/2023,3,9:50:00 PM,10:05:00 PM
+36,No,Loss -2,Loss,-2,29,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+37,No,Retreat -1,Retreat,-1,28,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+38,No,Win 2,Win,2,30,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+39,Maybe,Win 4,Win,4,34,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+40,No,Win 4,Win,4,38,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+41,Yes ,Win 4,Win,4,42,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+42,Yes ,Retreat -1,Retreat,-1,41,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+43,Maybe,Win 2,Win,2,43,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+44,No,Win 4,Win,4,47,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+45,No,Retreat -1,Retreat,-1,46,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+46,No,Win 2,Win,2,48,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+47,Yes ,Win 2,Win,2,50,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+48,No,Win 4,Win,4,54,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+49,Yes ,Win 4,Win,4,58,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+50,No,Win 4,Win,4,62,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+51,No,Retreat -1,Retreat,-1,61,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+52,No,Retreat -1,Retreat,-1,60,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+53,No,Win 2,Win,2,62,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+54,No,Win 1,Win,1,63,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+55,No,Win 4,Win,4,67,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+56,No,Win 2,Win,2,69,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+57,No,Retreat -1,Retreat,-1,68,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+58,No,Retreat -1,Retreat,-1,67,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+59,No,Win 2,Win,2,69,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+60,No,Win 4,Win,4,73,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+61,No,Retreat -1,Retreat,-1,72,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+62,No,Retreat -1,Retreat,-1,71,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+63,No,Retreat -1,Retreat,-1,70,Sera Elsa Armor,10/9/2023,4,9:05:00 PM,10:40:00 PM
+64,Maybe,Win 4,Win,4,74,Sera Elsa Armor,10/10/2023,5,9:00:00 PM,10:05:00 PM
+65,No,Win 2,Win,2,76,Sera Elsa Armor,10/10/2023,5,9:00:00 PM,10:05:00 PM
+66,No,Win 2,Win,2,78,Sera Elsa Armor,10/10/2023,5,9:00:00 PM,10:05:00 PM
+67,No,Tie 0,Tie,0,78,Sera Elsa Armor,10/10/2023,5,9:00:00 PM,10:05:00 PM
+68,No,Loss -2,Loss,-2,76,Sera Elsa Armor,10/10/2023,5,9:00:00 PM,10:05:00 PM
+69,Yes ,Win 4,Win,4,80,Sera Elsa Armor,10/10/2023,5,9:00:00 PM,10:05:00 PM
+70,No,Retreat -1,Retreat,-1,79,Sera Elsa Armor,10/10/2023,5,9:00:00 PM,10:05:00 PM
+71,No,Win 1,Win,1,80,Sera Elsa Armor,10/10/2023,5,9:00:00 PM,10:05:00 PM
+72,No,Retreat -1,Retreat,-1,79,Sera Elsa Armor,10/10/2023,5,9:00:00 PM,10:05:00 PM
+73,No,Retreat -1,Retreat,-1,78,Sera Elsa Armor,10/10/2023,5,9:00:00 PM,10:05:00 PM
+74,Yes ,Win 4,Win,4,82,Sera Elsa Armor,10/10/2023,5,9:00:00 PM,10:05:00 PM
+75,No,Win 2,Win,2,84,Sera Elsa Armor,10/10/2023,5,9:00:00 PM,10:05:00 PM
+76,No,Win 4,Win,4,88,Sera Elsa Armor,10/10/2023,5,9:00:00 PM,10:05:00 PM
+77,No,Retreat -1,Retreat,-1,87,Sera Elsa Armor,10/10/2023,5,9:00:00 PM,10:05:00 PM
+78,No,Win 1,Win,1,88,Sera Elsa Armor,10/10/2023,5,9:00:00 PM,10:05:00 PM
+79,Yes ,Win 8,Win,8,96,Sera Elsa Armor,10/10/2023,5,9:00:00 PM,10:05:00 PM
+80,No,Loss -2,Loss,-2,94,Sera Elsa Armor,10/10/2023,5,9:00:00 PM,10:05:00 PM
+81,No,Retreat -1,Retreat,-1,93,Sera Elsa Armor,10/10/2023,5,9:00:00 PM,10:05:00 PM
+82,No,Win 2,Win,2,95,Sera Elsa Armor,10/10/2023,5,9:00:00 PM,10:05:00 PM
+83,Maybe,Win 2,Win,2,97,Sera Elsa Armor,10/10/2023,5,9:00:00 PM,10:05:00 PM
+84,No,Win 2,Win,2,99,Sera Elsa Armor,10/10/2023,5,9:00:00 PM,10:05:00 PM
+85,No,Retreat -1,Retreat,-1,98,Sera Elsa Armor,10/10/2023,5,9:00:00 PM,10:05:00 PM
+86,No,Loss -2,Loss,-2,96,Sera Elsa Armor,10/13/2023,6,10:20:00 PM,10:50:00 PM
+87,No,Retreat -1,Retreat,-1,95,Sera Elsa Armor,10/13/2023,6,10:20:00 PM,10:50:00 PM
+88,No,Retreat -1,Retreat,-1,94,Sera Elsa Armor,10/13/2023,6,10:20:00 PM,10:50:00 PM
+89,No,Win 2,Win,2,96,Sera Elsa Armor,10/13/2023,6,10:20:00 PM,10:50:00 PM
+90,No,Win 2,Win,2,98,Sera Elsa Armor,10/13/2023,6,10:20:00 PM,10:50:00 PM
+91,No,Retreat -1,Retreat,-1,97,Sera Elsa Armor,10/13/2023,6,10:20:00 PM,10:50:00 PM
+92,No,Win 8,Win,8,105,Sera Elsa Armor,10/13/2023,6,10:20:00 PM,10:50:00 PM
+93,No,Retreat -1,Retreat,-1,104,Sera Elsa Armor,10/13/2023,6,10:20:00 PM,10:50:00 PM
+94,No,Retreat -1,Retreat,-1,103,Sera Elsa Armor,10/13/2023,6,10:20:00 PM,10:50:00 PM
+95,No,Retreat -2,Retreat,-2,101,Sera Elsa Armor,10/13/2023,6,10:20:00 PM,10:50:00 PM
+96,No,Loss -2,Loss,-2,99,Sera Elsa Armor,10/13/2023,6,10:20:00 PM,10:50:00 PM
+97,No,Retreat -2,Retreat,-2,97,Sera Elsa Armor,10/13/2023,6,10:20:00 PM,10:50:00 PM
+98,No,Retreat -1,Retreat,-1,96,Sera Elsa Armor,10/15/2023,7,10:10:00 PM,11:05:00 PM
+99,No,Win 1,Win,1,97,Sera Elsa Armor,10/15/2023,7,10:10:00 PM,11:05:00 PM
+100,No,Win 2,Win,2,99,Sera Elsa Armor,10/15/2023,7,10:10:00 PM,11:05:00 PM
+101,No,Win 4,Win,4,103,Sera Elsa Armor,10/15/2023,7,10:10:00 PM,11:05:00 PM
+102,No,Retreat -1,Retreat,-1,102,Sera Elsa Armor,10/15/2023,7,10:10:00 PM,11:05:00 PM
+103,No,Win 4,Win,4,106,Sera Elsa Armor,10/15/2023,7,10:10:00 PM,11:05:00 PM
+104,No,Loss -2,Loss,-2,104,Sera Elsa Armor,10/15/2023,7,10:10:00 PM,11:05:00 PM
+105,No,Retreat -1,Retreat,-1,103,Sera Elsa Armor,10/15/2023,7,10:10:00 PM,11:05:00 PM
+106,No,Retreat -1,Retreat,-1,102,Sera Elsa Armor,10/15/2023,7,10:10:00 PM,11:05:00 PM
+107,No,Retreat -1,Retreat,-1,101,Sera Elsa Armor,10/15/2023,7,10:10:00 PM,11:05:00 PM
+108,No,Retreat -1,Retreat,-1,100,Sera Elsa Armor,10/15/2023,7,10:10:00 PM,11:05:00 PM
+109,No,Win 4,Win,4,104,Sera Elsa Armor,10/15/2023,7,10:10:00 PM,11:05:00 PM
+110,No,Retreat -1,Retreat,-1,103,Sera Elsa Armor,10/15/2023,7,10:10:00 PM,11:05:00 PM
+111,Yes ,Win 2,Win,2,105,Sera Elsa Armor,10/15/2023,7,10:10:00 PM,11:05:00 PM
+112,No,Win 2,Win,2,107,Sera Elsa Armor,10/15/2023,7,10:10:00 PM,11:05:00 PM
+113,No,Win 8,Win,8,115,Sera Elsa Armor,10/15/2023,7,10:10:00 PM,11:05:00 PM
+114,No,Retreat -1,Retreat,-1,114,Sera Elsa Armor,10/15/2023,7,10:10:00 PM,11:05:00 PM
+115,No,Loss -8,Loss,-8,106,Sera Elsa Armor,10/15/2023,7,10:10:00 PM,11:05:00 PM
+116,No,Retreat -1,Retreat,-1,105,Sera Elsa,10/16/2023,8,8:40:00 PM,9:40:00 PM
+117,No,Win 1,Win,1,106,Sera Elsa,10/16/2023,8,8:40:00 PM,9:40:00 PM
+118,No,Retreat -1,Retreat,-1,105,Sera Elsa,10/16/2023,8,8:40:00 PM,9:40:00 PM
+119,No,Retreat -1,Retreat,-1,104,Sera Elsa,10/16/2023,8,8:40:00 PM,9:40:00 PM
+120,No,Retreat -1,Retreat,-1,103,Sera Elsa,10/16/2023,8,8:40:00 PM,9:40:00 PM
+121,No,Win 2,Win,2,105,Sera Elsa,10/16/2023,8,8:40:00 PM,9:40:00 PM
+122,No,Loss -2,Loss,-2,103,Sera Elsa,10/16/2023,8,8:40:00 PM,9:40:00 PM
+123,No,Retreat -1,Retreat,-1,102,Sera Elsa,10/16/2023,8,8:40:00 PM,9:40:00 PM
+124,No,Win 4,Win,4,106,Sera Elsa,10/16/2023,8,8:40:00 PM,9:40:00 PM
+125,No,Win 4,Win,4,110,Sera Elsa,10/16/2023,8,8:40:00 PM,9:40:00 PM
+126,No,Win 2,Win,2,112,Sera Elsa,10/16/2023,8,8:40:00 PM,9:40:00 PM
+127,No,Win 1,Win,1,113,Sera Elsa,10/16/2023,8,8:40:00 PM,9:40:00 PM
+128,No,Retreat -1,Retreat,-1,112,Sera Elsa,10/16/2023,8,8:40:00 PM,9:40:00 PM
+129,No,Win 1,Win,1,113,Sera Elsa,10/16/2023,8,8:40:00 PM,9:40:00 PM
+130,No,Retreat -1,Retreat,-1,112,Sera Elsa,10/16/2023,8,8:40:00 PM,9:40:00 PM
+131,No,Retreat -1,Retreat,-1,111,Sera Elsa,10/16/2023,8,8:40:00 PM,9:40:00 PM
+132,No,Retreat -1,Retreat,-1,110,Sera Elsa,10/16/2023,8,8:40:00 PM,9:40:00 PM
+133,No,Retreat -1,Retreat,-1,109,Sera Elsa,10/16/2023,8,8:40:00 PM,9:40:00 PM
+134,No,Retreat -1,Retreat,-1,108,Sera Elsa,10/16/2023,8,8:40:00 PM,9:40:00 PM
+135,No,Retreat -1,Retreat,-1,107,Sera Elsa,10/16/2023,8,8:40:00 PM,9:40:00 PM
+136,No,Win 8,Win,8,115,Sera Elsa,10/16/2023,8,8:40:00 PM,9:40:00 PM
+137,No,Retreat -1,Retreat,-1,114,Loki @den_ccg,10/17/2023,9,7:40:00 AM,8:15:00 AM
+138,No,Win 4,Win,4,118,Loki @den_ccg,10/17/2023,9,7:40:00 AM,8:15:00 AM
+139,No,Win 2,Win,2,120,Loki @den_ccg,10/17/2023,9,7:40:00 AM,8:15:00 AM
+140,No,Loss -2,Loss,-2,118,Loki @den_ccg,10/17/2023,9,7:40:00 AM,8:15:00 AM
+141,No,Retreat -1,Retreat,-1,117,Loki @den_ccg,10/17/2023,9,7:40:00 AM,8:15:00 AM
+142,No,Win 1,Win,1,118,Loki @den_ccg,10/17/2023,9,7:40:00 AM,8:15:00 AM
+143,No,Retreat -1,Retreat,-1,117,Loki @den_ccg,10/17/2023,9,7:40:00 AM,8:15:00 AM
+144,No,Retreat -1,Retreat,-1,116,Loki @den_ccg,10/17/2023,9,7:40:00 AM,8:15:00 AM
+145,No,Retreat -1,Retreat,-1,115,Loki @den_ccg,10/17/2023,9,7:40:00 AM,8:15:00 AM
+146,No,Win 2,Win,2,117,Sera Elsa Armor,10/17/2023,9,7:40:00 AM,8:15:00 AM
+147,No,Retreat -1,Retreat,-1,116,Anti-destroy,10/17/2023,10,9:15:00 PM,10:15:00 PM
+148,No,Retreat -1,Retreat,-1,115,Anti-destroy,10/17/2023,10,9:15:00 PM,10:15:00 PM
+149,No,Win 1,Win,1,116,Loki Collector,10/17/2023,10,9:15:00 PM,10:15:00 PM
+150,No,Win 2,Win,2,118,Loki Collector,10/17/2023,10,9:15:00 PM,10:15:00 PM
+151,No,Win 2,Win,2,120,Loki Collector,10/17/2023,10,9:15:00 PM,10:15:00 PM
+152,No,Retreat -1,Retreat,-1,119,Loki Collector,10/17/2023,10,9:15:00 PM,10:15:00 PM
+153,No,Retreat -1,Retreat,-1,118,Loki Collector,10/17/2023,10,9:15:00 PM,10:15:00 PM
+154,No,Win 1,Win,1,119,Loki Collector,10/17/2023,10,9:15:00 PM,10:15:00 PM
+155,No,Retreat -1,Retreat,-1,118,Loki Collector,10/17/2023,10,9:15:00 PM,10:15:00 PM
+156,No,Retreat -2,Retreat,-2,116,Loki Collector,10/17/2023,10,9:15:00 PM,10:15:00 PM
+157,No,Retreat -1,Retreat,-1,115,Loki Collector,10/17/2023,10,9:15:00 PM,10:15:00 PM
+158,No,Loss -2,Loss,-2,113,Loki Shang,10/17/2023,10,9:15:00 PM,10:15:00 PM
+159,No,Win 1,Win,1,114,Anti-destroy,10/17/2023,10,9:15:00 PM,10:15:00 PM
+160,No,Retreat -2,Retreat,-2,112,Anti-destroy,10/17/2023,10,9:15:00 PM,10:15:00 PM
+161,No,Win 1,Win,1,113,Anti-destroy,10/17/2023,10,9:15:00 PM,10:15:00 PM
+162,No,Win 4,Win,4,117,Anti-destroy,10/17/2023,10,9:15:00 PM,10:15:00 PM
+163,No,Retreat -1,Retreat,-1,116,Anti-destroy,10/17/2023,10,9:15:00 PM,10:15:00 PM
+164,No,Loss -4,Loss,-4,112,Anti-destroy,10/17/2023,10,9:15:00 PM,10:15:00 PM
+165,No,Win 1,Win,1,113,Anti-destroy,10/17/2023,10,9:15:00 PM,10:15:00 PM
+166,No,Loss -2,Loss,-2,111,Anti-destroy,10/17/2023,10,9:15:00 PM,10:15:00 PM
+167,No,Retreat -1,Retreat,-1,110,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+168,No,Win 2,Win,2,112,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+169,No,Win 1,Win,1,113,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+170,No,Win 1,Win,1,114,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+171,No,Win 4,Win,4,118,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+172,No,Retreat -1,Retreat,-1,117,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+173,No,Win 2,Win,2,119,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+174,No,Retreat -1,Retreat,-1,118,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+175,No,Win 1,Win,1,119,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+176,No,Win 4,Win,4,123,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+177,No,Win 4,Win,4,127,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+178,No,Win 2,Win,2,129,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+179,No,Win 2,Win,2,131,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+180,No,Win 4,Win,4,135,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+181,No,Retreat -1,Retreat,-1,134,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+182,No,Win 1,Win,1,135,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+183,No,Loss -4,Loss,-4,131,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+184,No,Retreat -1,Retreat,-1,130,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+185,No,Win 1,Win,1,131,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+186,No,Win 8,Win,8,139,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+187,No,Win 1,Win,1,140,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+188,No,Win 1,Win,1,141,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+189,No,Win 2,Win,2,143,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+190,No,Retreat -1,Retreat,-1,142,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+191,No,Win 2,Win,2,144,Sera Elsa,10/18/2023,11,7:40:00 AM,8:55:00 AM
+192,No,Loss -2,Loss,-2,142,Sera Elsa,10/18/2023,12,10:40:00 AM,11:20:00 AM
+193,No,Retreat -1,Retreat,-1,141,Sera Elsa,10/18/2023,12,10:40:00 AM,11:20:00 AM
+194,No,Loss -2,Loss,-2,139,Sera Elsa,10/18/2023,12,10:40:00 AM,11:20:00 AM
+195,No,Win 2,Win,2,141,Sera Elsa,10/18/2023,12,10:40:00 AM,11:20:00 AM
+196,No,Retreat -1,Retreat,-1,140,Sera Elsa,10/18/2023,12,10:40:00 AM,11:20:00 AM
+197,No,Win 1,Win,1,141,Sera Elsa,10/18/2023,12,10:40:00 AM,11:20:00 AM
+198,No,Win 1,Win,1,142,Sera Elsa,10/18/2023,12,10:40:00 AM,11:20:00 AM
+199,No,Retreat -1,Retreat,-1,141,Sera Elsa,10/18/2023,12,10:40:00 AM,11:20:00 AM
+200,No,Win 1,Win,1,142,Sera Elsa,10/18/2023,12,10:40:00 AM,11:20:00 AM
+201,No,Win 2,Win,2,144,Sera Elsa,10/18/2023,12,10:40:00 AM,11:20:00 AM
+202,No,Tie 0,Tie,0,144,Sera Elsa,10/18/2023,12,10:40:00 AM,11:20:00 AM
+203,No,Win 4,Win,4,148,Sera Elsa,10/18/2023,12,10:40:00 AM,11:20:00 AM

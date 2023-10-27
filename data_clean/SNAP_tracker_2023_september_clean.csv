@@ -1,0 +1,164 @@
+index,bot,entry,match_result,cubes,cubes_total,deck,date,session,session_start,session_end
+1,No,Retreat -1,Retreat,-1,-1,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+2,No,Retreat -2,Retreat,-2,-3,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+3,Yes ,Win 8,Win,8,5,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+4,Maybe,Win 4,Win,4,9,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+5,No,Win 2,Win,2,11,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+6,No,Win 2,Win,2,13,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+7,Maybe,Win 2,Win,2,15,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+8,No,Retreat -1,Retreat,-1,14,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+9,No,Retreat -1,Retreat,-1,13,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+10,No,Win 2,Win,2,15,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+11,No,Win 1,Win,1,16,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+12,No,Loss -2,Loss,-2,14,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+13,No,Loss -2,Loss,-2,12,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+14,No,Retreat -1,Retreat,-1,11,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+15,Maybe,Win 4,Win,4,15,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+16,No,Loss -2,Loss,-2,13,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+17,Yes ,Win 4,Win,4,17,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+18,No,Win 4,Win,4,21,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+19,No,Win 2,Win,2,23,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+20,No,Win 1,Win,1,24,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+21,No,Win 2,Win,2,26,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+22,No,Retreat -1,Retreat,-1,25,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+23,No,Win 2,Win,2,27,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+24,No,Loss -4,Loss,-4,23,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+25,Yes ,Win 4,Win,4,27,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+26,No,Win 2,Win,2,29,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+27,No,Win 2,Win,2,31,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+28,Maybe,Win 4,Win,4,35,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+29,No,Loss -4,Loss,-4,31,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+30,No,Win 2,Win,2,33,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+31,No,Win 2,Win,2,35,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
+32,No,Retreat -1,Retreat,-1,34,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+33,Yes ,Win 4,Win,4,38,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+34,No,Win 4,Win,4,42,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+35,No,Win 2,Win,2,44,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+36,Maybe,Win 4,Win,4,48,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+37,No,Win 2,Win,2,50,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+38,No,Retreat -1,Retreat,-1,49,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+39,No,Win 4,Win,4,53,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+40,Maybe,Win 8,Win,8,61,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+41,No,Retreat -1,Retreat,-1,60,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+42,No,Win 1,Win,1,61,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+43,No,Win 1,Win,1,62,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+44,Yes ,Win 4,Win,4,66,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+45,No,Retreat -1,Retreat,-1,65,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+46,No,Win 4,Win,4,69,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+47,No,Win 2,Win,2,71,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+48,No,Win 4,Win,4,75,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+49,No,Retreat -1,Retreat,-1,74,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+50,Yes ,Loss -4,Loss,-4,70,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+51,No,Retreat -1,Retreat,-1,69,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+52,No,Win 8,Win,8,77,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+53,No,Win 2,Win,2,79,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+54,No,Retreat -1,Retreat,-1,78,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+55,No,Win 1,Win,1,79,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+56,Maybe,Win 4,Win,4,83,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+57,Yes ,Win 8,Win,8,91,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+58,Yes ,Win 4,Win,4,95,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+59,No,Retreat -1,Retreat,-1,94,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+60,No,Loss -2,Loss,-2,92,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+61,Yes ,Loss -8,Loss,-8,84,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+62,No,Retreat -1,Retreat,-1,83,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+63,No,Loss -4,Loss,-4,79,Loki Sera JeffH,9/5/2023,2,11:30:00 PM,1:30:00 AM
+64,No,Retreat -1,Retreat,-1,78,Loki Sera JeffH,9/6/2023,3,9:00:00 AM,9:30:00 AM
+65,No,Retreat -1,Retreat,-1,77,Loki Sera JeffH,9/6/2023,3,9:00:00 AM,9:30:00 AM
+66,Yes ,Win 8,Win,8,85,Loki Sera JeffH,9/6/2023,3,9:00:00 AM,9:30:00 AM
+67,No,Retreat -1,Retreat,-1,84,Loki Sera JeffH,9/6/2023,3,9:00:00 AM,9:30:00 AM
+68,No,Retreat -1,Retreat,-1,83,Loki Sera JeffH,9/6/2023,3,9:00:00 AM,9:30:00 AM
+69,No,Loss -2,Loss,-2,81,Loki Sera JeffH,9/6/2023,3,9:00:00 AM,9:30:00 AM
+70,No,Retreat -1,Retreat,-1,80,Loki Sera JeffH,9/6/2023,3,9:00:00 AM,9:30:00 AM
+71,No,Win 1,Win,1,81,Loki Sera JeffH,9/6/2023,3,9:00:00 AM,9:30:00 AM
+72,No,Win 2,Win,2,83,Loki Sera JeffH,9/6/2023,3,9:00:00 AM,9:30:00 AM
+73,No,Retreat -1,Retreat,-1,82,Loki Sera JeffH,9/6/2023,3,9:00:00 AM,9:30:00 AM
+74,No,Loss -2,Loss,-2,80,Loki Sera JeffH,9/6/2023,3,9:00:00 AM,9:30:00 AM
+75,No,Loss -2,Loss,-2,78,Loki Sera JeffH,9/6/2023,3,9:00:00 AM,9:30:00 AM
+76,Maybe,Win 2,Win,2,80,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+77,No,Win 4,Win,4,84,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+78,No,Loss -8,Loss,-8,76,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+79,Yes ,Win 8,Win,8,84,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+80,Maybe,Win 2,Win,2,86,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+81,No,Win 4,Win,4,90,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+82,No,Retreat -1,Retreat,-1,89,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+83,Yes ,Win 4,Win,4,93,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+84,No,Retreat -1,Retreat,-1,92,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+85,No,Win 1,Win,1,93,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+86,No,Retreat -1,Retreat,-1,92,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+87,No,Win 2,Win,2,94,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+88,No,Win 2,Win,2,96,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+89,No,Win 8,Win,8,104,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+90,No,Retreat -1,Retreat,-1,103,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+91,Maybe,Win 8,Win,8,111,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+92,Yes ,Win 4,Win,4,115,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+93,No,Retreat -1,Retreat,-1,114,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+94,Yes ,Loss -2,Loss,-2,112,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+95,No,Retreat -1,Retreat,-1,111,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+96,Yes ,Win 8,Win,8,119,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+97,Maybe,Retreat -1,Retreat,-1,118,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+98,No,Retreat -1,Retreat,-1,117,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+99,No,Retreat -1,Retreat,-1,116,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+100,No,Win 2,Win,2,118,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+101,No,Retreat -1,Retreat,-1,117,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+102,No,Win 2,Win,2,119,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+103,No,Win 2,Win,2,121,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+104,Yes ,Win 8,Win,8,129,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+105,No,Loss -2,Loss,-2,127,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+106,No,Win 2,Win,2,129,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+107,Yes ,Win 8,Win,8,137,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+108,No,Win 2,Win,2,139,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+109,No,Retreat -1,Retreat,-1,138,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+110,Yes ,Loss -4,Loss,-4,134,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+111,No,Retreat -1,Retreat,-1,133,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+112,No,Retreat -1,Retreat,-1,132,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+113,No,Retreat -1,Retreat,-1,131,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+114,Yes ,Win 8,Win,8,139,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+115,No,Retreat -1,Retreat,-1,138,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+116,Yes ,Loss -2,Loss,-2,136,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+117,No,Win 2,Win,2,138,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+118,Maybe,Retreat -1,Retreat,-1,137,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+119,No,Retreat -1,Retreat,-1,136,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+120,No,Retreat -1,Retreat,-1,135,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+121,No,Retreat -1,Retreat,-1,134,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+122,Yes ,Retreat -1,Retreat,-1,133,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+123,Yes ,Retreat -1,Retreat,-1,132,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+124,Maybe,Retreat -1,Retreat,-1,131,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+125,No,Win 2,Win,2,133,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+126,No,Retreat -1,Retreat,-1,132,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+127,Yes ,Win 8,Win,8,140,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+128,No,Loss -8,Loss,-8,132,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+129,No,Win 2,Win,2,134,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+130,No,Loss -2,Loss,-2,132,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+131,No,Loss -2,Loss,-2,130,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+132,Maybe,Loss -2,Loss,-2,128,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+133,Yes ,Win 4,Win,4,132,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+134,Yes ,Win 8,Win,8,140,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+135,Yes ,Retreat -1,Retreat,-1,139,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+136,Yes ,Win 4,Win,4,143,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+137,No,Retreat -1,Retreat,-1,142,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+138,No,Retreat -1,Retreat,-1,141,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+139,No,Win 2,Win,2,143,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+140,No,Retreat -1,Retreat,-1,142,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+141,Maybe,Loss -8,Loss,-8,134,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+142,Yes ,Win 4,Win,4,138,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+143,Maybe,Loss -4,Loss,-4,134,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+144,No,Win 1,Win,1,135,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+145,No,Retreat -1,Retreat,-1,134,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+146,No,Loss -2,Loss,-2,132,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+147,Maybe,Retreat -1,Retreat,-1,131,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+148,No,Win 4,Win,4,135,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+149,No,Retreat -1,Retreat,-1,134,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+150,Yes ,Retreat -1,Retreat,-1,133,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+151,Yes ,Win 8,Win,8,141,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+152,Maybe,Retreat -1,Retreat,-1,140,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+153,No,Win 1,Win,1,141,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+154,No,Win 2,Win,2,143,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+155,No,Retreat -1,Retreat,-1,142,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+156,Maybe,Retreat -1,Retreat,-1,141,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+157,Yes ,Loss -4,Loss,-4,137,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+158,No,Win 2,Win,2,139,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+159,Maybe,Retreat -1,Retreat,-1,138,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+160,Maybe,Retreat -1,Retreat,-1,137,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+161,Yes ,Win 8,Win,8,145,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+162,No,Retreat -1,Retreat,-1,144,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
+163,Yes ,Win 8,Win,8,152,Loki Sera JeffH,9/6/2023,4,10:00:00 PM,3:00:00 AM
