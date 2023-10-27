@@ -8,8 +8,8 @@ These scripts are unnecessary to obtain a summary/visualization of your data,
 but they do provide a good foundation to build on for deeper analyses or more 
 intricate visualizations. However, if you are uncomfortable using R for 
 whatever reason, similar results can still be obtained through Excel/Sheets. 
-For most people, the base chart included in the Sheets template will be 
-sufficient enough.
+For most people, the base chart and deck stats included in the Sheets template 
+will be sufficient enough.
 
 ## Other Resources
 
