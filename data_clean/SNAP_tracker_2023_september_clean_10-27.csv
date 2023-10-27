@@ -1,4 +1,4 @@
-index,bot,entry,match_result,cubes,cubes_total,deck,date,session,session_start,session_end
+index,bot,entry,match_result,cubes_result,cubes_total,deck,date,session,session_start,session_end
 1,No,Retreat -1,Retreat,-1,-1,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
 2,No,Retreat -2,Retreat,-2,-3,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM
 3,Yes ,Win 8,Win,8,5,Loki Sera JeffH,9/5/2023,1,9:00:00 PM,11:00:00 PM

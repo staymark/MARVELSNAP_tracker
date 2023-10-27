@@ -17,8 +17,8 @@ glimpse(snap_data)
 # summary stats -----------------------------------------------------------
 summ_stats <- snap_data %>% 
     summarize(total_games = n(), 
-              cube_rate = sum(cubes) / n(), 
-              total_cubes = sum(cubes), 
+              cube_rate = sum(cubes_result) / n(), 
+              total_cubes = sum(cubes_result), 
               win_percentage = (length(which(snap_data$match_result == 'Win')) / n()) * 100,
               wins = length(which(snap_data$match_result == 'Win')), 
               losses = length(which(snap_data$match_result == 'Loss' | snap_data$match_result == 'Retreat')),
@@ -32,8 +32,8 @@ View(summ_stats)
 deck_stats <- snap_data %>% 
     group_by(deck) %>% 
     summarize(total_games = n(), 
-              cube_rate = sum(cubes) / n(), 
-              total_cubes = sum(cubes), 
+              cube_rate = sum(cubes_result) / n(), 
+              total_cubes = sum(cubes_result), 
               win_percentage = sum(match_result == 'Win') / n() * 100,
               wins = sum(match_result == 'Win'),
               losses = sum(match_result == 'Loss' | match_result == 'Retreat'),

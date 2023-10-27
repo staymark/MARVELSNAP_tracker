@@ -1,4 +1,4 @@
-index,bot,entry,match_result,cubes,cubes_total,deck,date,session,session_start,session_end
+index,bot,entry,match_result,cubes_result,cubes_total,deck,date,session,session_start,session_end
 1,No,Retreat -2,Retreat,-2,-2,Glenn Jones Mobius?,10/3/2023,1,9:50:00 PM,10:30:00 PM
 2,Yes ,Win 2,Win,2,0,Glenn Jones Mobius?,10/3/2023,1,9:50:00 PM,10:30:00 PM
 3,No,Loss -2,Loss,-2,-2,Glenn Jones Mobius?,10/3/2023,1,9:50:00 PM,10:30:00 PM
