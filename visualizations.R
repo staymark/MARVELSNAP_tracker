@@ -17,7 +17,10 @@ glimpse(snap_data)
 # total cubes over games played -------------------------------------------
 ggplot(snap_data, aes(x = index, y = cubes_total)) +
     geom_line() +
-    geom_point(aes(color = deck)) +
+    geom_point(
+        aes(color = deck), 
+        size = 1.25
+    ) +
     labs(
         title = "<ENTER_TITLE_HERE>",
         subtitle = "<ENTER_SUBTITLE_HERE>",
@@ -26,7 +29,13 @@ ggplot(snap_data, aes(x = index, y = cubes_total)) +
         color = "Deck"
     ) +
     dark_theme_gray() +
-    theme(legend.position = "right")
+    theme(
+        plot.title = element_text(size = 20, face = "bold"),
+        plot.subtitle = element_text(size = 15, face = "bold"), 
+        axis.title = element_text(size = 13), 
+        legend.title = element_text(size = 15), 
+        legend.position = "right"
+    )
 
 
 # save --------------------------------------------------------------------
